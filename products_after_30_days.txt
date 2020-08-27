@@ -1,5 +1,4 @@
-OMGHAI!
--------- day 0 --------
+Day 0
 name, sellIn, price
 Medium Coverage, 10, 20
 Full Coverage, 2, 0
@@ -11,7 +10,7 @@ Special Full Coverage, 10, 49
 Special Full Coverage, 5, 49
 Super Sale, 3, 6
 
--------- day 1 --------
+Day 1
 name, sellIn, price
 Medium Coverage, 9, 19
 Full Coverage, 1, 1
@@ -23,7 +22,7 @@ Special Full Coverage, 9, 50
 Special Full Coverage, 4, 50
 Super Sale, 2, 5
 
--------- day 2 --------
+Day 2
 name, sellIn, price
 Medium Coverage, 8, 18
 Full Coverage, 0, 2
@@ -35,7 +34,7 @@ Special Full Coverage, 8, 50
 Special Full Coverage, 3, 50
 Super Sale, 1, 4
 
--------- day 3 --------
+Day 3
 name, sellIn, price
 Medium Coverage, 7, 17
 Full Coverage, -1, 4
@@ -47,7 +46,7 @@ Special Full Coverage, 7, 50
 Special Full Coverage, 2, 50
 Super Sale, 0, 3
 
--------- day 4 --------
+Day 4
 name, sellIn, price
 Medium Coverage, 6, 16
 Full Coverage, -2, 6
@@ -59,7 +58,7 @@ Special Full Coverage, 6, 50
 Special Full Coverage, 1, 50
 Super Sale, -1, 1
 
--------- day 5 --------
+Day 5
 name, sellIn, price
 Medium Coverage, 5, 15
 Full Coverage, -3, 8
@@ -71,7 +70,7 @@ Special Full Coverage, 5, 50
 Special Full Coverage, 0, 50
 Super Sale, -2, 0
 
--------- day 6 --------
+Day 6
 name, sellIn, price
 Medium Coverage, 4, 14
 Full Coverage, -4, 10
@@ -83,7 +82,7 @@ Special Full Coverage, 4, 50
 Special Full Coverage, -1, 0
 Super Sale, -3, 0
 
--------- day 7 --------
+Day 7
 name, sellIn, price
 Medium Coverage, 3, 13
 Full Coverage, -5, 12
@@ -95,7 +94,7 @@ Special Full Coverage, 3, 50
 Special Full Coverage, -2, 0
 Super Sale, -4, 0
 
--------- day 8 --------
+Day 8
 name, sellIn, price
 Medium Coverage, 2, 12
 Full Coverage, -6, 14
@@ -107,7 +106,7 @@ Special Full Coverage, 2, 50
 Special Full Coverage, -3, 0
 Super Sale, -5, 0
 
--------- day 9 --------
+Day 9
 name, sellIn, price
 Medium Coverage, 1, 11
 Full Coverage, -7, 16
@@ -119,7 +118,7 @@ Special Full Coverage, 1, 50
 Special Full Coverage, -4, 0
 Super Sale, -6, 0
 
--------- day 10 --------
+Day 10
 name, sellIn, price
 Medium Coverage, 0, 10
 Full Coverage, -8, 18
@@ -131,7 +130,7 @@ Special Full Coverage, 0, 50
 Special Full Coverage, -5, 0
 Super Sale, -7, 0
 
--------- day 11 --------
+Day 11
 name, sellIn, price
 Medium Coverage, -1, 8
 Full Coverage, -9, 20
@@ -143,7 +142,7 @@ Special Full Coverage, -1, 0
 Special Full Coverage, -6, 0
 Super Sale, -8, 0
 
--------- day 12 --------
+Day 12
 name, sellIn, price
 Medium Coverage, -2, 6
 Full Coverage, -10, 22
@@ -155,7 +154,7 @@ Special Full Coverage, -2, 0
 Special Full Coverage, -7, 0
 Super Sale, -9, 0
 
--------- day 13 --------
+Day 13
 name, sellIn, price
 Medium Coverage, -3, 4
 Full Coverage, -11, 24
@@ -167,7 +166,7 @@ Special Full Coverage, -3, 0
 Special Full Coverage, -8, 0
 Super Sale, -10, 0
 
--------- day 14 --------
+Day 14
 name, sellIn, price
 Medium Coverage, -4, 2
 Full Coverage, -12, 26
@@ -179,7 +178,7 @@ Special Full Coverage, -4, 0
 Special Full Coverage, -9, 0
 Super Sale, -11, 0
 
--------- day 15 --------
+Day 15
 name, sellIn, price
 Medium Coverage, -5, 0
 Full Coverage, -13, 28
@@ -191,7 +190,7 @@ Special Full Coverage, -5, 0
 Special Full Coverage, -10, 0
 Super Sale, -12, 0
 
--------- day 16 --------
+Day 16
 name, sellIn, price
 Medium Coverage, -6, 0
 Full Coverage, -14, 30
@@ -203,7 +202,7 @@ Special Full Coverage, -6, 0
 Special Full Coverage, -11, 0
 Super Sale, -13, 0
 
--------- day 17 --------
+Day 17
 name, sellIn, price
 Medium Coverage, -7, 0
 Full Coverage, -15, 32
@@ -215,7 +214,7 @@ Special Full Coverage, -7, 0
 Special Full Coverage, -12, 0
 Super Sale, -14, 0
 
--------- day 18 --------
+Day 18
 name, sellIn, price
 Medium Coverage, -8, 0
 Full Coverage, -16, 34
@@ -227,7 +226,7 @@ Special Full Coverage, -8, 0
 Special Full Coverage, -13, 0
 Super Sale, -15, 0
 
--------- day 19 --------
+Day 19
 name, sellIn, price
 Medium Coverage, -9, 0
 Full Coverage, -17, 36
@@ -239,7 +238,7 @@ Special Full Coverage, -9, 0
 Special Full Coverage, -14, 0
 Super Sale, -16, 0
 
--------- day 20 --------
+Day 20
 name, sellIn, price
 Medium Coverage, -10, 0
 Full Coverage, -18, 38
@@ -251,7 +250,7 @@ Special Full Coverage, -10, 0
 Special Full Coverage, -15, 0
 Super Sale, -17, 0
 
--------- day 21 --------
+Day 21
 name, sellIn, price
 Medium Coverage, -11, 0
 Full Coverage, -19, 40
@@ -263,7 +262,7 @@ Special Full Coverage, -11, 0
 Special Full Coverage, -16, 0
 Super Sale, -18, 0
 
--------- day 22 --------
+Day 22
 name, sellIn, price
 Medium Coverage, -12, 0
 Full Coverage, -20, 42
@@ -275,7 +274,7 @@ Special Full Coverage, -12, 0
 Special Full Coverage, -17, 0
 Super Sale, -19, 0
 
--------- day 23 --------
+Day 23
 name, sellIn, price
 Medium Coverage, -13, 0
 Full Coverage, -21, 44
@@ -287,7 +286,7 @@ Special Full Coverage, -13, 0
 Special Full Coverage, -18, 0
 Super Sale, -20, 0
 
--------- day 24 --------
+Day 24
 name, sellIn, price
 Medium Coverage, -14, 0
 Full Coverage, -22, 46
@@ -299,7 +298,7 @@ Special Full Coverage, -14, 0
 Special Full Coverage, -19, 0
 Super Sale, -21, 0
 
--------- day 25 --------
+Day 25
 name, sellIn, price
 Medium Coverage, -15, 0
 Full Coverage, -23, 48
@@ -311,7 +310,7 @@ Special Full Coverage, -15, 0
 Special Full Coverage, -20, 0
 Super Sale, -22, 0
 
--------- day 26 --------
+Day 26
 name, sellIn, price
 Medium Coverage, -16, 0
 Full Coverage, -24, 50
@@ -323,7 +322,7 @@ Special Full Coverage, -16, 0
 Special Full Coverage, -21, 0
 Super Sale, -23, 0
 
--------- day 27 --------
+Day 27
 name, sellIn, price
 Medium Coverage, -17, 0
 Full Coverage, -25, 50
@@ -335,7 +334,7 @@ Special Full Coverage, -17, 0
 Special Full Coverage, -22, 0
 Super Sale, -24, 0
 
--------- day 28 --------
+Day 28
 name, sellIn, price
 Medium Coverage, -18, 0
 Full Coverage, -26, 50
@@ -347,7 +346,7 @@ Special Full Coverage, -18, 0
 Special Full Coverage, -23, 0
 Super Sale, -25, 0
 
--------- day 29 --------
+Day 29
 name, sellIn, price
 Medium Coverage, -19, 0
 Full Coverage, -27, 50
@@ -359,7 +358,7 @@ Special Full Coverage, -19, 0
 Special Full Coverage, -24, 0
 Super Sale, -26, 0
 
--------- day 30 --------
+Day 30
 name, sellIn, price
 Medium Coverage, -20, 0
 Full Coverage, -28, 50
